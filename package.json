@@ -1,0 +1,9 @@
+{
+  "name": "mindwave-blink",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.4.0"
+  }
+}
